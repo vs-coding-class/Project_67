@@ -6,5 +6,6 @@ function setup() {
 function draw() {
   background(255,255,255);
   rect(0,0,50,50);
+  rect(0,100,50,50)
   drawSprites();
 }
